@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke Büyükköprü</h1>
-<h3 align="center">A computer engineering student working to improve in software development</h3>
+<h3 align="center">A computer engineering student working to improve himself in Software Development</h3>
 
 - 🌱 I’m currently learning **Front-end Development and ASP.NET Core**
 
