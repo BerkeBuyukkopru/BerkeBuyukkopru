@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **berkebuyukkopru06@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/berke-buyukkopru](www.linkedin.com/in/berke-buyukkopru)
+- 📄 Know about my experiences [https://www.linkedin.com/in/berke-buyukkopru/](https://www.linkedin.com/in/berke-buyukkopru/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
