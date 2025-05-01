@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke Büyükköprü</h1>
-<h3 align="center">I am a computer engineering student working to improve myself in Software Development.</h3>
+<h3 align="center">I am a Computer Engineering Student working to improve myself in Software Development.</h3>
 <br>
 
 - 🌱 I’m currently learning **Front-End Development** and **Android Mobile App Development** using **Kotlin**.
