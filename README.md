@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Engineering Student working to improve myself in Software Development.</h3>
 <br>
 
-- 🌱 I’m currently learning **Front-End Development** and **Android Mobile App Development** using **Kotlin**.
+- 🌱 I’m currently learning **Front-End Development** using **JavaScript, React, and .NET Core**
 
 - 📫 How to reach me **berkebuyukkopru06@gmail.com**
 
