@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Engineering Student working to improve myself in Software Development.</h3>
 <br>
 
-- 🌱 I’m currently learning **Software Development** using **.NET Core, JavaScript and React**
+- 🌱 I’m currently learning **.NET Core, JavaScript and React**
 
 - 📫 How to reach me **berkebuyukkopru06@gmail.com**
 
